@@ -1,4 +1,7 @@
 #NOTES
+#Exploring Docker [1] - Getting Started
+#https://www.youtube.com/watch?v=Kyx2PsuwomE
+
 #Exploring Docker [2] - Docker Compose With Node & MongoDB
 # https://www.youtube.com/watch?v=hP77Rua1E0c&t=973s
 Great posts about using Docker:
