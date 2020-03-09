@@ -1,4 +1,6 @@
 #NOTES
+#Exploring Docker [2] - Docker Compose With Node & MongoDB
+# https://www.youtube.com/watch?v=hP77Rua1E0c&t=973s
 Great posts about using Docker:
 https://blog.codeship.com/category/docker-commands/
 https://blog.codeship.com/using-docker-push-to-publish-images-to-dockerhub/
